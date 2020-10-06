@@ -2044,7 +2044,7 @@ input, select, textarea {
 		.tooltip .tooltiptext {
 			font-size: .5em;
 			visibility: hidden;
-			width: 75px;
+			width: 100px;
 			background-color: rgba(0, 0, 0, 0.651);
 			color: #fff;
 			text-align: center;
